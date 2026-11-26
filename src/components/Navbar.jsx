@@ -9,7 +9,7 @@ export default function Navbar() {
     <header className="navbar glass">
       <div className="brand">
         <span className="brand-mark" aria-hidden="true">✓</span>
-        <span className="brand-name">Glass Todo</span>
+        <span className="brand-name">Access Todo</span>
       </div>
       <div className="nav-user">
         <span className="avatar" aria-hidden="true">{initial}</span>
